@@ -1,0 +1,8 @@
+2022-Jan-06-08:39:00,Starting The ETL Process
+2022-Jan-06-08:43:33,Extract phase Started
+2022-Jan-06-08:43:33,Extract phase Ended
+2022-Jan-06-08:43:39,Transform phase Started
+2022-Jan-06-08:43:39,Transform phase Ended
+2022-Jan-06-08:43:52,Load phase Started
+2022-Jan-06-08:43:52,Load phase Ended
+2022-Jan-06-08:43:53,ETL Process is Ended
